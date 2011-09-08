@@ -25,6 +25,13 @@ foo bbe
 
 foo bar
 
+my |arm| is connected to my kneee
+
+.. |arm| replace:: a\ :sup:`r`\ m
+
+.. DANGER::
+    suck muh balls
+
 
 
 

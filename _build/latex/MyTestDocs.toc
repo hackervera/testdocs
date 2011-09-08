@@ -1,2 +1,5 @@
 \select@language {english}
 \contentsline {chapter}{\numberline {1}What you will learn in these docs}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}You must use this knowledge to become \textbf {awesome} \emph {or you will go to jail}}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}No srslys im srs}{1}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}This doesn't amad any sense}{1}{section.1.2}
