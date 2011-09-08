@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 SEP 2011 14:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 SEP 2011 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,38 +910,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 141.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 142.
+
 (./MyTestDocs.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
  [1
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (./MyTestDocs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `MyTestDocs.out' has not changed.
 (rerunfilecheck)             Checksum: F559DDF6D1D7A205318595827B1FB037;255.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
- 8628 strings out of 493633
- 120030 string characters out of 3143378
- 210086 words of memory out of 3000000
- 11752 multiletter control sequences out of 15000+200000
- 59078 words of font info for 60 fonts, out of 3000000 for 9000
+ 8666 strings out of 493633
+ 120534 string characters out of 3143378
+ 211086 words of memory out of 3000000
+ 11783 multiletter control sequences out of 15000+200000
+ 61964 words of font info for 65 fonts, out of 3000000 for 9000
  832 hyphenation exceptions out of 8191
  36i,11n,45p,316b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2011/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2011/t
-exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/
-fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on MyTestDocs.pdf (5 pages, 50034 bytes).
+exlive/2011/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2011/texm
+f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/
+times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on MyTestDocs.pdf (5 pages, 64082 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

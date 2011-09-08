@@ -31,6 +31,15 @@ my |arm| is connected to my kneee
 
 .. DANGER::
     suck muh balls
+    
+.. code-block:: ruby
+
+    class Foo
+      def bar(bq)
+        @bq = bq
+      end
+    end
+      
 
 
 
