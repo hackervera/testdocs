@@ -4,22 +4,16 @@
    contain the root `toctree` directive.
 
 
-Hello world http://www.pdxbrain.com tylergillies@facebook.com
-
 Welcome to My Test Docs's documentation!
 ========================================
-
-
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-Indices and tables
-==================
+What you will learn in these docs
+----------------------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+This documentation was created to teach you how to be freaking awesome
 
